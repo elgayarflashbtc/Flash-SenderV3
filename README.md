@@ -7,7 +7,9 @@
 # Pricing
 
 💵 Demo edition - $20 💵
+
 ⭐️ essential edition - $40 ⭐️
+
 💎 unlimited edition - $80 💎
 
 
